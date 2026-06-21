@@ -39,7 +39,7 @@ body {
 }
 .progress-fill {
   height: 100%;
-  width: 33%;
+  width: 0%;
   background-color: #48a300;
   border-radius: 20px;
 }
