@@ -1,52 +1,45 @@
 # Focus On Today
 
-A simple goal tracking web application built with HTML, CSS, and JavaScript.
+A simple productivity web application built with Vanilla JavaScript to practice core JavaScript concepts by building a real project from scratch.
 
 ## Features
 
-* Add and manage daily goals
-* Track goal completion progress
-* Interactive progress bar
-* Clean and responsive user interface
-* Local storage support (planned)
+- ✅ Add daily goals
+- ✅ Mark goals as completed
+- ✅ Dynamic progress bar
+- ✅ Progress text updates automatically
+- ✅ Data persistence using localStorage
+- ✅ Input validation
+- ✅ Custom checkbox with tick icon
+- ✅ Responsive and clean UI
 
 ## Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
 
-## Learning Objectives
+## Concepts Practiced
 
-This project is being built to strengthen core frontend fundamentals, including:
+- DOM Manipulation
+- Event Listeners
+- querySelector / querySelectorAll
+- Event Handling
+- classList
+- Local Storage
+- JSON.stringify()
+- JSON.parse()
+- Dynamic UI Updates
 
-* HTML structure and semantics
-* CSS layouts and Flexbox
-* DOM Manipulation
-* Event Handling
-* Local Storage
-* JavaScript fundamentals
+## Upcoming Features
 
-## Project Status
-
-🚧 Currently in development
-
-### Completed
-
-* Page layout
-* Goal card UI
-* Progress bar UI
-* Goal input sections
-
-### Upcoming
-
-* Goal completion functionality
-* Dynamic progress updates
-* Local storage integration
-* Input validation
+- [ ] Unlimited goals
+- [ ] Reset all goals
+- [ ] Node.js backend integration
+- [ ] React version
+- [ ] Authentication
 
 ## Author
 
-Dhriti Midha
-
-GitHub: https://github.com/Dmidha20
+Made with ❤️ by Dhriti Midha
